@@ -6,7 +6,7 @@
     "league/route": "^3.0",
     "zendframework/zend-diactoros": "^2.1",
     "zendframework/zend-httphandlerrunner": "^1.1",
-    "twig/twig":"^2.0"
+    "twig/twig":"^2.11"
   },
   "autoload": {
     "psr-0": {"": "src/"},
